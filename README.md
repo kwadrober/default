@@ -3,7 +3,7 @@
 # Inure App Manager
 
 An elegant Android app manager.
-
+#
 ## Stats
 
 [![](https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/Hamza417/Inure/badge?style=flat&logo=kotlin&logoColor=white&label=Total%20Lines&color=indianred)](https://ghloc.vercel.app/Hamza417/Inure?branch=master)
