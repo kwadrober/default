@@ -218,18 +218,4 @@ from `app/src/main/res/values-locale-code` directory.
 
 **Inure App Manager** is released as open source software under
 the [GPL v3](https://opensource.org/licenses/gpl-3.0.html)
-license, see the [LICENSE](./LICENSE) file in the project root for the full license text.
-
-## Behind The Scenes
-
-|           ![01](assets/images/01.jpg)           |
-|:------------------------------------------:|
-| Designing of interface skeletons for Inure | 
-
-|        ![01](assets/images/inure_music.png)        |
-|:---------------------------------------------:|
-| Audio Player interface design (later removed) |
-
-|     ![01](assets/images/inure_batch.png)     |
-|:---------------------------------------:|
-| Presentation design for Batch interface |
+license, see the [LICENSE](./LICENSE) file in the project root for the full license test. |
