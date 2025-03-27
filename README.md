@@ -1,4 +1,4 @@
-![Banner](assets/images/banner.png)
+assets/images/banner.png
 
 # Inure App Manager
 
